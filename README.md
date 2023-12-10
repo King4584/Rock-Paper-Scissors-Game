@@ -8,6 +8,14 @@ A simple Rock, Paper, Scissors game implemented in HTML, CSS, and JavaScript. Te
 3. The computer will make its move and the winner will be displayed.
 4. Keep playing and try to beat the computer!
 
-## Contributing
+##Contributing:
+We welcome contributions! If you'd like to contribute to this project, follow these steps:
 
-If you would like to contribute to this project, please feel free to fork the repository and create a pull request.
+1.Fork the repository.
+2.Create a new branch: 'git checkout -b feature/new-feature'.
+3.Make your changes and commit them: git commit -am 'Add a new feature'.
+4.Push to the branch: 'git push origin feature/new-feature'.
+5.Submit a pull request.
+
+##Clone the repository:
+git clone https://github.com/King4584/Rock-Paper-Scissors-Game.git
