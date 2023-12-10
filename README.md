@@ -12,10 +12,15 @@ A simple Rock, Paper, Scissors game implemented in HTML, CSS, and JavaScript. Te
 We welcome contributions! If you'd like to contribute to this project, follow these steps:
 
 1.Fork the repository.
+
 2.Create a new branch: 'git checkout -b feature/new-feature'.
+
 3.Make your changes and commit them: git commit -am 'Add a new feature'.
+
 4.Push to the branch: 'git push origin feature/new-feature'.
+
 5.Submit a pull request.
+
 
 ##Clone the repository:
 git clone https://github.com/King4584/Rock-Paper-Scissors-Game.git
