@@ -23,4 +23,5 @@ We welcome contributions! If you'd like to contribute to this project, follow th
 
 
 ##Clone the repository:
+
 git clone https://github.com/King4584/Rock-Paper-Scissors-Game.git
